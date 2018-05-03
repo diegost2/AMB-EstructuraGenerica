@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525357974 source:d:\diegoespinoza\primerparcialejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Usuario.h"
+
+1525357655 source:d:\diegoespinoza\primerparcialejemplo\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Usuario.h"
+
+1525357955 d:\diegoespinoza\primerparcialejemplo\usuario.h
+
+1525352162 source:d:\diegoespinoza\primerparcialejemplo\publicacion.c
+	"Publicacion.h"
+
+1525352219 d:\diegoespinoza\primerparcialejemplo\publicacion.h
+
